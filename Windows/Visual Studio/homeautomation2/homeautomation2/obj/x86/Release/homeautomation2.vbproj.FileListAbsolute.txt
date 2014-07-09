@@ -1,0 +1,11 @@
+C:\Users\Danny\documents\visual studio 2010\Projects\homeautomation2\homeautomation2\obj\x86\Release\ResolveAssemblyReference.cache
+C:\Users\Danny\documents\visual studio 2010\Projects\homeautomation2\homeautomation2\obj\x86\Release\GenerateResource.read.1.tlog
+C:\Users\Danny\documents\visual studio 2010\Projects\homeautomation2\homeautomation2\obj\x86\Release\GenerateResource.write.1.tlog
+C:\Users\Danny\Documents\Visual Studio 2010\Projects\homeautomation2\homeautomation2\bin\Release\DannyTech Centralised Home Control.exe
+C:\Users\Danny\Documents\Visual Studio 2010\Projects\homeautomation2\homeautomation2\bin\Release\DannyTech Centralised Home Control.pdb
+C:\Users\Danny\Documents\Visual Studio 2010\Projects\homeautomation2\homeautomation2\bin\Release\DannyTech Centralised Home Control.xml
+C:\Users\Danny\Documents\Visual Studio 2010\Projects\homeautomation2\homeautomation2\obj\x86\Release\homecontrol.Form1.resources
+C:\Users\Danny\Documents\Visual Studio 2010\Projects\homeautomation2\homeautomation2\obj\x86\Release\homecontrol.Resources.resources
+C:\Users\Danny\Documents\Visual Studio 2010\Projects\homeautomation2\homeautomation2\obj\x86\Release\DannyTech Centralised Home Control.exe
+C:\Users\Danny\Documents\Visual Studio 2010\Projects\homeautomation2\homeautomation2\obj\x86\Release\DannyTech Centralised Home Control.xml
+C:\Users\Danny\Documents\Visual Studio 2010\Projects\homeautomation2\homeautomation2\obj\x86\Release\DannyTech Centralised Home Control.pdb

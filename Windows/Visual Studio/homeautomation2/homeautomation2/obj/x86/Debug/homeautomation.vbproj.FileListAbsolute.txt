@@ -1,0 +1,11 @@
+C:\Users\Danny\AppData\Local\Temporary Projects\homeautomation\bin\Debug\homeautomation.exe
+C:\Users\Danny\AppData\Local\Temporary Projects\homeautomation\bin\Debug\homeautomation.pdb
+C:\Users\Danny\AppData\Local\Temporary Projects\homeautomation\bin\Debug\homeautomation.xml
+C:\Users\Danny\AppData\Local\Temporary Projects\homeautomation\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\Danny\AppData\Local\Temporary Projects\homeautomation\obj\x86\Debug\homeautomation.Form1.resources
+C:\Users\Danny\AppData\Local\Temporary Projects\homeautomation\obj\x86\Debug\homeautomation.Resources.resources
+C:\Users\Danny\AppData\Local\Temporary Projects\homeautomation\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Users\Danny\AppData\Local\Temporary Projects\homeautomation\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Users\Danny\AppData\Local\Temporary Projects\homeautomation\obj\x86\Debug\homeautomation.exe
+C:\Users\Danny\AppData\Local\Temporary Projects\homeautomation\obj\x86\Debug\homeautomation.xml
+C:\Users\Danny\AppData\Local\Temporary Projects\homeautomation\obj\x86\Debug\homeautomation.pdb
